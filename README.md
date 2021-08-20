@@ -44,6 +44,23 @@ But for some who need help with Forge, I can help in my discord channel.
 ![ROFShader](https://user-images.githubusercontent.com/77334306/130240476-6bb8201f-1bfd-4e2d-9338-09aea342b873.png)
 
 
+# Actual SOPP Addons
+### LFire Addon 
+- Improves visibility when you burn and in general the fire on the block becomes less than the original
+### HDShield Addon
+- Improves shields, making them an HD model (For example, applied drawing patterns)
+### 3D Addon
+- Improves the quality of some models, for example: Pointed Dripstone, StoneCutter, Ladders, Chains and other similar models
+### LParticles Addon
+- Reduces some particles in PvP and softens campfire smoke
+### LWeather Addon
+- Reduces the number of particles during snowfall and rain
+### DarkGUI Addon
+- Makes a simple dark theme for inventory, action buttons
+
+### < ! > Addons are present in the modpack client in the resource pack section < ! >
+
+
 
 # Installing SOPP Client
 
