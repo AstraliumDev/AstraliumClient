@@ -65,7 +65,7 @@ But for some who need help with Forge, I can help in my discord channel.
 # Installing SOPP Client
 
 ### Download Package/Archive
-- [https://github.com/DIDIRUS4/SOPP-Client/releases/latest](url)
+- https://github.com/DIDIRUS4/SOPP-Client/releases/latest
 
 # Methods for installing our archive
 
