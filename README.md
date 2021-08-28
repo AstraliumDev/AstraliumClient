@@ -1,6 +1,7 @@
 ![blazingsopp-github](https://user-images.githubusercontent.com/77334306/130237660-cfebc65a-51ff-4486-b3af-edb44f05c3f5.png)
 # About SOPP
 - The SOPP mod pack aims for better performance compared to other mod packs. Get fast chunk generation, less RAM using and stable fps on new versions of the Minecraft.
+- Our Discord - https://discord.gg/7XkGYJbtZg
 
 ### Why SOPP ModPack Client
 - Using our client, you do not risk losing performance, unless you have too old hardware in your PC / Laptop, but in this case I can direct you to study the minimum characteristics. However, I will still try to help you on my discord channel.
