@@ -45,7 +45,7 @@ But for some who need help with Forge, I can help in my discord channel.
 ![ROFShader](https://user-images.githubusercontent.com/77334306/130240476-6bb8201f-1bfd-4e2d-9338-09aea342b873.png)
 
 
-# Actual SOPP Addons
+# SOPP Addons 
 ### LFire Addon 
 - Improves visibility when you burn and in general the fire on the block becomes less than the original
 ### HDShield Addon
@@ -59,7 +59,7 @@ But for some who need help with Forge, I can help in my discord channel.
 ### DarkGUI Addon
 - Makes a simple dark theme for inventory, action buttons
 
-### < ! > Addons are present in the modpack client in the resource pack section < ! >
+Download - https://github.com/DIDIRUS4/SOPP-Client/releases/tag/RPV1
 
 
 
