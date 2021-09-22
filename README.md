@@ -60,6 +60,8 @@ But for some who need help with Forge, I can help in my discord channel.
 - Makes a simple dark theme for inventory, action buttons
 
 Download - https://github.com/DIDIRUS4/SOPP-Client/releases/tag/RPV1
+Create your own ResourcePack - https://vanillatweaks.net/picker/resource-packs/
+- I'm not the owner of VanillaTweaks!
 
 
 
