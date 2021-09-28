@@ -77,7 +77,7 @@ Created with VanillaTweaks
 
 # Methods for installing our client (MultiMC Supported)
 
-### 1. AutoInstall with .bat installer
+### 1. AutoInstall with .bat installers
 - It is enough to get the folder from the archive and run the .bat installer (Installation goes to drive "C", if you have a different location of the game, we recommend copying all files from SOPP_Files to the game directory /.minecraft, after deleting the old /config and /mods folders
 ### 2. Manual installation by copying / moving files to the required directories
 - In short, move or copy all the files from our SOPP_Files folder to the ~ /.minecraft folder with the game, before that please also delete the old /config and /mods folders
