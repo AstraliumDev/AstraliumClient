@@ -37,7 +37,7 @@ But for some who need help with Forge, I can help in my discord channel.
 
 ### RSI Without Shaders 
 ![RSI](https://user-images.githubusercontent.com/77334306/130240283-e0cb40ed-da86-475a-9354-2e1591e02d32.png)
-### ROF Withour Shaders
+### ROF Without Shaders
 ![ROF](https://user-images.githubusercontent.com/77334306/130240319-f0625344-7876-429e-b2bc-2479e5c9b215.png)
 ### RSI With Shaders Sildurs Medium
 ![RSIShader](https://user-images.githubusercontent.com/77334306/130240392-a18fe3a2-efa0-4ff1-9f05-a9dee5be44ac.png)
@@ -79,7 +79,17 @@ Created with VanillaTweaks
 
 ### 1. AutoInstall with .bat installers
 - It is enough to get the folder from the archive and run the .bat installer (Installation goes to drive "C", if you have a different location of the game, we recommend copying all files from SOPP_Files to the game directory /.minecraft, after deleting the old /config and /mods folders
-### 2. Manual installation by copying / moving files to the required directories
+### 2. AutoInstall for MultiMC Instances
+- You can take advantage of the simple and multifunctional choice of the path to your game
+- Do not use "" symbols when entering the path to your game folder
+- An example of using this installation method
+```
+"C:\Users\%username%\AppData\Roaming\MultiMC\instances"
+"C:\Users\%username%\AppData\Roaming\MultiMC\instances\FabricPackage"
+"C:\Users\%username%\AppData\Roaming\MultiMC\instances\SOPP"
+"C:\Users\%username%\Desktop\amogusfolder"
+```
+### 3. Manual installation by copying / moving files to the required directories
 - In short, move or copy all the files from our SOPP_Files folder to the ~ /.minecraft folder with the game, before that please also delete the old /config and /mods folders
 - Please read the information in the SOPPINFO.txt file
 
