@@ -102,7 +102,7 @@ Created with VanillaTweaks
 ```
 
 
-### Easy Download Minecraft Launcher or MultiMC Instances - Unsupported arhieve go to [MultiMC Website](https://multimc.org/) and [Minecraft.net Website](https://www.minecraft.net)
+### Easy Download Minecraft Launcher or MultiMC Instances - Unsupported archive go to [MultiMC Website](https://multimc.org/) and [Minecraft.net Website](https://www.minecraft.net)
 - https://github.com/DIDIRUS4/SOPP-Client/releases/tag/MCI
 
 
