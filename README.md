@@ -77,9 +77,20 @@ Created with VanillaTweaks
 
 # Methods for installing our client (MultiMC Supported)
 
-### 1. AutoInstall with .exe installer
+
+# Installing MultiMC Minecraft Instance Launcher for Arch Linux / Manjaro
+> 1. mkdir multimc-pkgbuild
+> 2. cd multimc-pkgbuild
+> 3. wget https://raw.githubusercontent.com/MultiMC/multimc-pkgbuild/master/PKGBUILD
+> 4. makepkg -si
+> 5. Press `Meta` button (like Microsoft Windows button) and type `Multimc` in search area
+
+### 1. Manual installation by copying / moving files to the required directories - **Priority method**
+- In short, move or copy all the files from our SOPP_Files folder to the ~/.minecraft folder with the game, before that please also delete the old /config and /mods folders
+- Please read the information in the SOPPINFO.txt file
+### 2. AutoInstall with .exe installer - Easy method, make minecraft folders backup
 - It is enough to get the folder from the archive and run the .exe installer (Installation goes to drive "C", if you have a different location of the game, we recommend copying all files from SOPP_Files to the game directory /.minecraft, after deleting the old /config and /mods folders
-### 2. AutoInstall for MultiMC Instances
+### 3. AutoInstall for MultiMC Instances
 - You can take advantage of the simple and multifunctional choice of the path to your game
 - Do not use "" symbols when entering the path to your game folder
 - An example of using this installation method
@@ -89,12 +100,18 @@ Created with VanillaTweaks
 "C:\Users\%username%\AppData\Roaming\MultiMC\instances\SOPP"
 "C:\Users\%username%\Desktop\amogusfolder"
 ```
-### 3. Manual installation by copying / moving files to the required directories
-- In short, move or copy all the files from our SOPP_Files folder to the ~/.minecraft folder with the game, before that please also delete the old /config and /mods folders
-- Please read the information in the SOPPINFO.txt file
 
-# Easy Download Minecraft Launcher or MultiMC Instances
+
+### Easy Download Minecraft Launcher or MultiMC Instances - Unsupported arhieve go to [MultiMC Website](https://multimc.org/) and [Minecraft.net Website](https://www.minecraft.net)
 - https://github.com/DIDIRUS4/SOPP-Client/releases/tag/MCI
 
+
+
+
+# Credits / Rights (Our client does not appropriate other people's rights, we are opensource with the MIT license)
+
+- Mojang © 2009-2022. "Minecraft" is a trademark of Mojang AB
+- Fabric NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
+- © 2013-2022 MultiMC Contributors
 
 # Thank you for your attention, SOPP Products appreciates this.
