@@ -3,6 +3,44 @@
 - The SOPP mod pack aims for better performance compared to other mod packs. Get fast chunk generation, less RAM using and stable fps on new versions of the Minecraft.
 - Our Discord - https://discord.gg/7XkGYJbtZg
 
+# Third Patry Authors Links
+
+`All mods below have source code`
+
+- https://www.curseforge.com/minecraft/mc-mods/architectury-api
+- https://www.curseforge.com/minecraft/mc-mods/betterloadingscreen
+- https://www.curseforge.com/minecraft/mc-mods/cit-resewn
+- https://www.curseforge.com/minecraft/mc-mods/cloth-config
+- https://www.curseforge.com/minecraft/mc-mods/continuity
+- https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem
+- https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+- https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
+- https://www.curseforge.com/minecraft/mc-mods/fabric-api
+- https://www.curseforge.com/minecraft/mc-mods/capes
+- https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+- https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+- https://www.curseforge.com/minecraft/mc-mods/indium
+- https://www.curseforge.com/minecraft/mc-mods/irisshaders
+- https://www.curseforge.com/minecraft/mc-mods/krypton
+- https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
+- https://www.curseforge.com/minecraft/mc-mods/lazydfu
+- https://www.curseforge.com/minecraft/mc-mods/modmenu
+- https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+- https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
+- https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
+- https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+- https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
+- https://www.curseforge.com/minecraft/mc-mods/sodium
+- https://www.curseforge.com/minecraft/mc-mods/spark
+- https://www.curseforge.com/minecraft/mc-mods/starlight
+- https://www.curseforge.com/minecraft/mc-mods/viafabric
+
+`For XaerosMods - https://chocolateminecraft.com/index.php`
+- https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+- https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
+`You can go to the opensource repositories of authors via the Source button on the CurseForge website`
+
 ### Why SOPP ModPack Client
 - Using our client, you do not risk losing performance, unless you have too old hardware in your PC / Laptop, but in this case I can direct you to study the minimum characteristics. However, I will still try to help you on my discord channel.
 
