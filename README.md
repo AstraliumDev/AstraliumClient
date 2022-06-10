@@ -5,7 +5,10 @@
 
 # Third Patry Authors Links
 
-`All mods below have source code`
+- There can be no violations on our part, because we simply publish as a custom add-on package. Links to the authors' resources are listed in this article. If you want us to review the use of your addons here, and you are one of the authors of some addons in this custom package, then you can write to me: Discord - DIDIRUS4#8994 / Telegram - t.me/DIDIRUS4
+- If you wish, you can safely go to the source repository, which is available on the specified resources (CurseForge)
+
+- `All the addons presented below are/have been used in this custom addon package`
 
 - https://www.curseforge.com/minecraft/mc-mods/architectury-api
 - https://www.curseforge.com/minecraft/mc-mods/betterloadingscreen
@@ -35,11 +38,9 @@
 - https://www.curseforge.com/minecraft/mc-mods/starlight
 - https://www.curseforge.com/minecraft/mc-mods/viafabric
 
-`For XaerosMods - https://chocolateminecraft.com/index.php`
+- `For XaerosMods - https://chocolateminecraft.com/index.php`
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
-
-`You can go to the opensource repositories of authors via the Source button on the CurseForge website`
 
 ### Why SOPP ModPack Client
 - Using our client, you do not risk losing performance, unless you have too old hardware in your PC / Laptop, but in this case I can direct you to study the minimum characteristics. However, I will still try to help you on my discord channel.
