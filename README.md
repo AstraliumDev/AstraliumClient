@@ -91,7 +91,9 @@ Created with VanillaTweaks
 < ! > I'm not the owner of VanillaTweaks! < ! >
 - https://vanillatweaks.net/picker/resource-packs/
 
-
+# Be careful while download every SOPP /releases
+- Some public builds may be labeled as experimental / dangerous / raw or hot tags!
+- The author is not responsible for the breakdown of your game when using these versions! Please check with the author if this build is reliable, if you doubt. We hope to always release more or less stable public releases with notes from this paragraph :) Good luck! 
 
 
 # Installing SOPP Client
