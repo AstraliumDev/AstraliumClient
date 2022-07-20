@@ -32,12 +32,14 @@
 - https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
 - https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
 - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
-- https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
 - https://www.curseforge.com/minecraft/mc-mods/sodium
 - https://www.curseforge.com/minecraft/mc-mods/spark
 - https://www.curseforge.com/minecraft/mc-mods/starlight
 - https://www.curseforge.com/minecraft/mc-mods/viafabric
 
+- `All the addons presented below with closed sources`
+
+- https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
 - `For XaerosMods - https://chocolateminecraft.com/index.php`
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
@@ -64,24 +66,7 @@ Ideal alternative is Sodium or even Iris & Sodium (Shader support in the latter 
 ### Do you have any plans for a SOPP port for Forge?
 
 - Unfortunately, this is ruled out, since Forge Loader does not provide an opportunity to optimize it perfectly (At least as it is possible if you used Fabric Loader :))
-But for some who need help with Forge, I can help in my discord channel.
 
-### Do you have builds for 1.16.5?
-
-- Yes, you can download them on our discord channel. 1.16.5 and all previous builds after the release of new versions Minecraft will be under the brand name outdated/no longer support
-
-![image](https://user-images.githubusercontent.com/77334306/130238408-9ff40ed5-e7ce-4759-9ef9-6117a76e7df3.png)
-
-# Compare yourself RSI and ROF edition + Shaders performance check
-
-### RSI Without Shaders 
-![RSI](https://user-images.githubusercontent.com/77334306/130240283-e0cb40ed-da86-475a-9354-2e1591e02d32.png)
-### ROF Without Shaders
-![ROF](https://user-images.githubusercontent.com/77334306/130240319-f0625344-7876-429e-b2bc-2479e5c9b215.png)
-### RSI With Shaders Sildurs Medium
-![RSIShader](https://user-images.githubusercontent.com/77334306/130240392-a18fe3a2-efa0-4ff1-9f05-a9dee5be44ac.png)
-### ROF With Shaders Sildurs Medium
-![ROFShader](https://user-images.githubusercontent.com/77334306/130240476-6bb8201f-1bfd-4e2d-9338-09aea342b873.png)
 
 
 # SOPP Addons 
@@ -100,7 +85,7 @@ But for some who need help with Forge, I can help in my discord channel.
 
 ### Download
 Created with VanillaTweaks
-- https://github.com/DIDIRUS4/SOPP-Client/releases/tag/RPV1
+- https://github.com/AstraliumMC/SOPP-Client/releases/tag/RPV1
 
 ### Create your own ResourcePack 
 < ! > I'm not the owner of VanillaTweaks! < ! >
@@ -112,7 +97,7 @@ Created with VanillaTweaks
 # Installing SOPP Client
 
 ### Download Package/Archive
-- https://github.com/DIDIRUS4/SOPP-Client/releases/latest
+- https://github.com/AstraliumMC/SOPP-Client/releases/latest
 
 # Methods for installing our client (MultiMC Supported)
 
@@ -141,16 +126,12 @@ Created with VanillaTweaks
 ```
 
 
-### Easy Download Minecraft Launcher or MultiMC Instances - Unsupported archive go to [MultiMC Website](https://multimc.org/) and [Minecraft.net Website](https://www.minecraft.net)
-- https://github.com/DIDIRUS4/SOPP-Client/releases/tag/MCI
 
 
-
-
-# Credits / Rights (Our client does not appropriate other people's rights, we are opensource with the MIT license)
-
+# Credits / Rights 
+- Our client does not appropriate other people's rights, we are opensource with the MIT license
 - Mojang © 2009-2022. "Minecraft" is a trademark of Mojang AB
 - Fabric NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
 - © 2013-2022 MultiMC Contributors
 
-# Thank you for your attention, SOPP Products appreciates this.
+### Thank you for your attention, AstraliumMC & SOPP Products appreciates this.
