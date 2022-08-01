@@ -1,4 +1,6 @@
 ![blazingsopp-github](https://user-images.githubusercontent.com/77334306/130237660-cfebc65a-51ff-4486-b3af-edb44f05c3f5.png)
+# Rights of use / Permissions
+- We use the available mods in Github repositories or on CF, MR platforms. Nothing is violated from our side, since this is the author's personal mod package and he just shares it with users. Other users can easily assemble this mod package by downloading the same mods/add-ons for yourself.
 # About SOPP
 - The SOPP mod pack aims for better performance compared to other mod packs. Get fast chunk generation, less RAM using and stable fps on new versions of the Minecraft.
 - Our Discord - https://discord.gg/7XkGYJbtZg
