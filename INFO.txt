@@ -1,0 +1,119 @@
+                      -=-=- UPDATED FROM 20 July 2022 23:12 (Moscow Time) -=-=-
+|-====================================================================================================-|
+
+
+
+                                         < ! > EN/RU < ! >
+
+                               < SOPP AUTHOR => DIDIRUS (Dmitriy) >
+                                   < DISCORD  => DIDIRUS4#8994 >
+                  < GITHUB => https://github.com/AstraliumMC/SOPP-Client/releases >
+
+                         < ! > ACTIVE DEVELOPMENT ON LATEST VERSIONS < ! >
+
+
+
+|-====================================================================================================-|
+
+about-sopp-products:
+  - '|-====================================================================-|'
+  - '         » SOPP - Universal Modpack Client for Fabric 1.16.5+ «         '
+  - '     ᛜ Quility optimized configuration can make your game smoothed      '
+  - '        ᛜ The B E S T Modpack-Client based on Fabric in Russia ⭐        '
+  - '                  ᛜ Continuous support with updates ⌛                   '
+  - '                     ᛜ Suitable for weak devices ⚡                      '
+  - '        ᛜ Suitable for PvP* servers in new versions of the game         '
+  - '          ᛜ Better performance when playing with hard shaders           '
+  - '|-====================================================================-|'
+
+  - '< ! > Compatible with Wurst/Meteor/MatHax Utility mods < ! >'
+  - '< ! > We DO NOT recommend using our client with these utilities to play on third-party servers. < ! >'
+  - '< ! > You CAN USE these utilities EXCLUSIVELY to test some holes or mechanics on your servers or in a single-player game. < ! >'
+|-====================================================================================================-|
+
+  - '< ! > The author is not responsible for the use of other third-party modifications in SOPP < ! >'
+
+Powered-by-sopp-with-love-for-minecraft:
+  - 'Created with <3 to deliver the best gaming experience in M I N E C R A F T 1.16.5+ (-:'
+
+
+|-====================================================================================================-|
+
+
+Congratulations! You are now a member of our client
+We wish you a pleasant game! Enjoy (-:
+Link support:
+
+      VK          AstraliumMC & SOPP DISCORD    DISCORD DM        T.ME (TELEGRAM)              Github
+vk.com/didirus4      discord.gg/7XkGYJbtZg     DIDIRUS4#8994       t.me/DIDIRUS4   https://github.com/AstraliumMC
+
+
+
+
+
+
+
+                                      < ! > OLD HISTORY LOGS < ! >
+
+
+old-releases-history:
+  - 'Первая версия SOPPv1 была доступна только разработчику (Публичными стали только SOPPv6+)'
+  # В первой версии не были ничего кроме базовых настроек модов и т.п
+  - 'Вторая версия SOPPv2'
+  # В основном только фиксы и улучшения производительности
+  - 'Третья -> Пятая Версии SOPPv3 - 5'
+  # Тоже самое - фиксы багов и крашей + добавление новых модов для стабильной работы (-:
+  - 'Шестая версия SOPPv6'
+  # Глобальное обновление для 1.16.5, т.к полностью релизнутое чисто для 1.16.5
+  - 'Седьмая версия SOPPv7 - 7.3'
+  # Была релизнута только для 1.17. Начало портирования пака с версии 1.16.5 -> 1.17 (Достаточно легкое портирование :) )
+  - 'Версия SOPPv7.4'
+  # Уникальность данной версии в том, что она была выпущена без постоянной поддержки для 1.16.5 и с постоянной поддержкой для 1.17
+  - 'Версия SOPPv8'
+  # Сборка с плановым развитием на 1.17.X и выше. Данный релиз - Полный. Были добавлены все необходимые моды, кроме некоторых атмосферных (По плану уже были вырезаны из будущего использования)
+  - 'Версия SOPPv9'
+  # Null :(
+  - 'Версия SOPPv10 / 10F / 10-U'
+  # Крупные фиксы, обновления модов, оптимизация, шейдеры, и другие новые возможности благодаря SOPP :)
+  - 'Версии SOPPv11 / 11-B / 11-F и т.д'
+  # Попытки улучшить оптимизацию
+  - 'Версии SOPPv12'
+  # Глобальное улучшение оптимизации за счет IRIS & SODIUM
+  - 'Версии SOPPv12R'
+  # Глобальное улучшение оптимизации за счет IRIS & SODIUM для 1.17.0 и первый релиз для 1.17.1, но без IRIS
+  - 'Версии SOPPv13-PRE,PRE2'
+  # PRE версии идут без модов Sodium, Sodium & Iris, Canvas Renderer.
+  - 'Версии SOPPv13S / RS / RSI / RIS'
+  # Глобальный релиз оптимизации для 1.17.1 на момент 18.07.21
+  - 'Версии SOPPv13.1 / 13.2 / 13.3 / 13.4 / 13.5 / 13.6'
+  # Активная поддержка игры на версии 1.17.1 (Обновления всех модов, либ, полная перенастройка биндов и т.д)
+  - 'Версии SOPPv14RSI'
+  # Первая стабильная версия SOPP Client на 1.17.1 с поддержкой шейдеров! Уииии :D
+  - 'Версии SOPPv14.1 - 9RSI-STAR'
+  # Стабильные билды. Добавлен C2ME в 14.9RSI-STAR
+  - 'Версия SOPPv15RSI / ROF'
+  # Впервые релиз с дополнением OptiFine (Менее производительный, нежели RSI!). Добавлен метка в название OF - OptiFine, как и аналогия SI - Sodium & Iris, IS - Iris & Sodium.
+  - 'SOPP Client v16 - STAR и более высокие'
+  # Крупные изменения и обновления, различные фиксы крашей и багов. 1.16.5 Поддержка может быть возобновлена...
+  - 'SOPP Client v16.1 (В будущем это будет v{Версия} Patch {номер} - STAR'
+  # Улучшения производительности и микро редизайн менюшек
+  - 'SOPP Client v16 Patch 3-4'
+  # Глобальные улучшения рендеринга, благодаря которому вы почувствуете лучшую оптимизацию на данный момент
+  - 'SOPP v17P1 / v17P2'
+  # Добавлена полноценная поддержка MultiMC Instance System (Полный контроль над установкой нашего клиента)
+  Полное отслеживание загрузки наших компонентов
+  Редактор пути установки клиента (Кастомная директорию до ваших инстансов MultiMC)
+  - 'SOPP v17P3 / v17P4'
+  # Улучшения для MultiMC лоадера на .bat
+  - 'SOPP v17P5 / v17P6'
+  # P5 - Глобальное обновление. P6 - Обновление некоторых модов, фикс ошибок в модах. Ренейминг RPC
+  - 'SOPP v17P7 / v18BETA2 и выше'
+  # v17P7 релиз для версии игры 1.17.1. v18BETA2 для версии Minecraft 21w39a (1.18)
+  - 'SOPP v17P8 / v17P9 / v17P10 / v17P11'
+  # Улучшения производительности / Фиксы некоторых очень редких багов
+  - 'SOPP v17P12 / v18PRE1 (21w43a)'
+  # Стандартные обновления для v17P12 версии 1.17.1 и новое портирование от v17P12 в v18PRE1 для снапшота 1.18 (21w43a). Sodium + Iris теперь на 21w43a !
+  - 'SOPP v18XX'
+  
+  # Discontinued history logger ;( - > https://github.com/DIDIRUS4/SOPP-Client/releases
+
