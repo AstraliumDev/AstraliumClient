@@ -133,9 +133,6 @@ Created with VanillaTweaks
 
 
 # Credits / Rights 
-- Our client does not appropriate other people's rights, we are opensource with the MIT license
-- Mojang © 2009-2022. "Minecraft" is a trademark of Mojang AB
-- Fabric NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
-- © 2013-2022 MultiMC Contributors
+- (Our client does not appropriate other people's/author's rights, we're opensource with the MIT license)
 
-### Thank you for your attention, AstraliumMC & SOPP Products appreciates this.
+# Thank you for your attention, AstraliumMC appreciates this.
