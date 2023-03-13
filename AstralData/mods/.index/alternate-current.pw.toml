@@ -1,0 +1,14 @@
+name = "Alternate Current"
+filename = "alternate-current-mc1.19-1.5.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cd243c418e04a154b8dffc67bb1bfbf3a09d8769"
+
+[update]
+[update.curseforge]
+file-id = 4406080
+project-id = 548115

@@ -1,0 +1,14 @@
+name = "PurpurClient"
+filename = "purpurclient-1.19.3-22.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/AFirzqTJ/versions/6wevfg0P/purpurclient-1.19.3-22.jar"
+hash-format = "sha512"
+hash = "3985a1c430d940d2e77b1dc2852734e88febf25ec2e0e082a2bd66731bc9dfbe9e18f930312f32e21fb827e6b099244505cf3f009dbaf901f5bb3c20d78d8ebe"
+
+[update]
+[update.modrinth]
+mod-id = "AFirzqTJ"
+version = "6wevfg0P"

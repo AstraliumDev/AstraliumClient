@@ -1,0 +1,14 @@
+name = "Debugify"
+filename = "Debugify-1.19.3+1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d7f9cbf11bb36ef360de2b898a5a5e224eaef9e3"
+
+[update]
+[update.curseforge]
+file-id = 4177100
+project-id = 596224
