@@ -1,4 +1,4 @@
-![blazingsopp-github](https://user-images.githubusercontent.com/77334306/130237660-cfebc65a-51ff-4486-b3af-edb44f05c3f5.png)
+![Astralium-RoundedLogo](https://user-images.githubusercontent.com/77334306/230110135-c7cea862-0d39-46c3-b8c5-a90958009e63.png)
 # Rights of use / Permissions
 - We use the available mods in Github repositories or on CF, MR platforms. Nothing is violated from our side, since this is the author's personal mod package and he just shares it with users. Other users can easily assemble this mod package by downloading the same mods/add-ons or part-rewrite them code for yourself.
 # About SOPP
