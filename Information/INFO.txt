@@ -1,0 +1,47 @@
+                         -=-=- UPDATED AT 11 June 2023 (MSK TIME (GMT +3 / UTC +3)) -=-=-
+|-====================================================================================================-|
+
+                                          < ! > EN/RU < ! >
+
+                           < Astralium Client Author => DIDIRUS (Dmitriy) >
+                                      < DISCORD  => didirus >
+                  < GITHUB => https://github.com/AstraliumMC/AstraliumClient >
+
+                         < ! > ACTIVE DEVELOPMENT ON LATEST VERSIONS < ! >
+
+|-====================================================================================================-|
+
+About Project:
+
+» Astralium Client (Known as SOPP) - Universal Modpack Client (We're support 1.12.2 / 1.16.5 / 1.19.4 + Any mojang patches for this version of minecraft / 1.20) «
+`\
+  > ᛜ Quility optimized configuration can make your game smoothed               
+  > ᛜ The B E S T Modpack-Client based on Fabric in Russia ⭐                 
+  > ᛜ Continuous support with updates ⌛                           
+  > ᛜ Suitable for weak devices ⚡                              
+  > ᛜ Suitable for PvP* servers in new versions of the game                  
+  > ᛜ Better performance when playing with hard shaders                    
+
+  - '< ! > Compatible with Wurst Utility mod < ! >'
+  - '< ! > We DON'T recommend using our client with these utilities to play on third-party servers. < ! >'
+  - '< ! > You CAN USE these utilities EXCLUSIVELY to test some holes or mechanics on your servers or in a single-player game. < ! >'
+|-====================================================================================================-|
+
+  - 'The author is not responsible for the use of other third-party modifications in Astralium Client.'
+  - 'Created with <3 to deliver the best gaming experience in minecraft.'
+
+|-====================================================================================================-|
+
+
+Congratulations! You are now a member of our client
+We wish you a pleasant game! Enjoy (-:
+Link support:
+
+Links:
+`\
+  > [EN/RU] Github - https://github.com/AstraliumMC/
+  > [EN/RU] Astralium Client Github - https://github.com/AstraliumMC/AstraliumClient
+  > [EN/RU (Priority)] Author Github - https://github.com/DIDIRUS4
+  > [EN/RU (Priority)] Astralium Organization Telegram - https://t.me/AstraliumOrg
+  > [EN/RU] Astralium Development in Discord - https://discord.gg/7XkGYJbtZg
+  > [RU] Astralium Website - https://astralium.su or https://www.astralium.su
