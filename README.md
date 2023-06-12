@@ -122,7 +122,7 @@ Created with VanillaTweaks
 ### How install this modpack client?
 > Obviously, the first step is downloading and unpacking our package.
 >
-> Second step is so easy -> Push `Win (Meta) + R` buttons and input `%appdata%/.minecraft`.
+> Second step is so easy -> Push `Win (Meta) + R` buttons and input `%appdata%/Roaming/.minecraft`.
 > 
 > Third step is dragging modpack unpacked files from your download/desktop directory to your game directory `.minecraft`.
 
