@@ -1,0 +1,14 @@
+name = "Mod Menu"
+filename = "modmenu-7.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/eTCL1uh8/modmenu-7.2.1.jar"
+hash-format = "sha512"
+hash = "bcf9f30825d51e55ed5edef77b481a8e42ba61e6b78e32b6258ce86aaf4cfe812c4bd81595c5acebc65c876ae5b9840a7fb57d8ad7d26229c74b49c1b530e76f"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "eTCL1uh8"

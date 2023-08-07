@@ -1,0 +1,14 @@
+name = "Iris"
+filename = "iris-mc1.20.1-1.6.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Sc0OZ0Ze/iris-mc1.20.1-1.6.5.jar"
+hash-format = "sha512"
+hash = "770828177b41b6921913cac57eacc94796ea470bf11c3310d9b062274515001e3a123f509f9f034e14c9e0411939f033ac0b731d1ebaa1689e11c7deb1159957"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "Sc0OZ0Ze"
